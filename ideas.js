@@ -69,4 +69,7 @@ for (let i = 0; i < students.length; i++) {
 if (!foundAny) {
     console.log("No students matched the criteria");
 }
+else{
+    console.log("err0r message")
+}
 
